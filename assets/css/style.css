@@ -32,17 +32,30 @@ padding-left:65px;
 
 .dark-grey-text{
     background-color: white; 
-    padding:20px;
+    padding:50px;
     opacity: .9;
     color:black;
     font-weight: bold;
-
 }
+
 #projectsOnPage{
     font-family: 'Lobster', cursive;
     color:white;
-    padding-left: 350px;
+    padding-left: 500px;
     font-size: 50px;
-
+    margin-top: 5px;
+    
 }
+.footerHeading1{
+    font-family: 'Lobster', cursive;
+    font-size: 50px;
+}
+.footerHeading{
+    font-family: 'Lobster', cursive;
+    font-size: 30px;
+}
+.bottomFooter{
+    background-color:gainsboro;
+}
+
 
